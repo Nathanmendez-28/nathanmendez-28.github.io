@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Certificate placeholder one">
-  <rect width="720" height="460" fill="#ffffff"/>
-  <rect x="48" y="48" width="624" height="364" rx="8" fill="#f7fbfd" stroke="#2aa8df" stroke-width="10"/>
-  <text x="360" y="165" text-anchor="middle" font-family="Arial" font-size="42" font-weight="800" fill="#102a43">Certificate</text>
-  <rect x="170" y="215" width="380" height="14" rx="7" fill="#d9e7ef"/>
-  <rect x="220" y="255" width="280" height="14" rx="7" fill="#d9e7ef"/>
-  <circle cx="360" cy="330" r="38" fill="#2f9d66"/>
-</svg>
