@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Teaching placeholder">
+  <rect width="720" height="460" fill="#f7fbfd"/>
+  <rect x="90" y="85" width="540" height="280" rx="8" fill="#102a43"/>
+  <rect x="135" y="135" width="330" height="18" rx="4" fill="#81cff4"/>
+  <rect x="135" y="180" width="440" height="12" rx="4" fill="#dff2ff"/>
+  <rect x="135" y="210" width="380" height="12" rx="4" fill="#dff2ff"/>
+  <circle cx="545" cy="295" r="42" fill="#f3b64c"/>
+  <text x="360" y="410" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#102a43">Teaching</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Portfolio preview">
+  <rect width="1200" height="630" fill="#f1f9ff"/>
+  <circle cx="1010" cy="130" r="82" fill="#f3b64c"/>
+  <path d="M0 460c180-90 330-80 510 0s330 92 690-46v216H0z" fill="#2f9d66"/>
+  <path d="M0 520c180-60 330-54 510 0s330 62 690-30v140H0z" fill="#1f6f4a"/>
+  <text x="90" y="190" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" fill="#102a43">Nathaniel L. Mendez</text>
+  <text x="95" y="265" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#1f6f4a">Educator | Researcher | Lifelong Learner</text>
+</svg>

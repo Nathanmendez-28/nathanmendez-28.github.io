@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Events placeholder">
+  <rect width="720" height="460" fill="#e9f7ef"/>
+  <circle cx="190" cy="185" r="64" fill="#2aa8df"/>
+  <circle cx="360" cy="185" r="64" fill="#2f9d66"/>
+  <circle cx="530" cy="185" r="64" fill="#f3b64c"/>
+  <rect x="130" y="280" width="460" height="70" rx="8" fill="#ffffff"/>
+  <rect x="180" y="305" width="360" height="14" rx="4" fill="#d9e7ef"/>
+  <text x="360" y="410" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#102a43">Events</text>
+</svg>

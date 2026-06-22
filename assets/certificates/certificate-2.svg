@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Certificate placeholder two">
+  <rect width="720" height="460" fill="#ffffff"/>
+  <rect x="48" y="48" width="624" height="364" rx="8" fill="#f7fbfd" stroke="#1f6f4a" stroke-width="10"/>
+  <text x="360" y="165" text-anchor="middle" font-family="Arial" font-size="42" font-weight="800" fill="#102a43">Achievement</text>
+  <rect x="170" y="215" width="380" height="14" rx="7" fill="#d9e7ef"/>
+  <rect x="220" y="255" width="280" height="14" rx="7" fill="#d9e7ef"/>
+  <circle cx="360" cy="330" r="38" fill="#f3b64c"/>
+</svg>
